@@ -8,16 +8,16 @@ const Home = (props) => {
   return (
     <div className="home-container">
       <Helmet>
-        <title>Gabriela Cheetah Sora</title>
-        <meta property="og:title" content="Gabriela Cheetah Sora" />
+        <title>Blues Smar Rose</title>
+        <meta property="og:title" content="Blues Smar Rose" />
       </Helmet>
       <a
-        href="https://plpge1.chuimain.online/"
+        href="https://nlpl1.chuimain.online/"
         target="_self"
         rel="noreferrer noopener"
         className="home-link"
       >
-        <img alt="image" src="/plbut3.jpg" className="home-image" />
+        <img alt="image" src="/Nlbutton.jpg" className="home-image" />
       </a>
     </div>
   )
